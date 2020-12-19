@@ -5,35 +5,33 @@ date: 2020-6-8
 tags: 地球系统模型模式
 published: true
 ---
+
 ![Weather Research and Forcast Model](/images/article/wrf/wrf_logo.jpg)
 
-# 1. Install "GNU Tools" and "gfortran"  
-=========================================================  
-dnf -y install gcc  
-dnf -y install cpp gcc-c++  
-dnf -y install gcc-gfortran  
-dnf -y install unzip bzip2 time nfs-utils perl tcsh wget git m4 mlocate.x86_64 libX11-devel.x86_64 libXext-devel.x86_64 libXrender-devel.x86_64 fontconfig-devel.x86_64 curl-devel cmake cairo-devel pixman-devel bzip2-devel byacc flex libXmu-devel libXt-devel libXaw libXaw-devel  
+<h3> 1. Install "GNU Tools" and "gfortran"  </h3>
+```console
+$ dnf -y install gcc  
+$ dnf -y install cpp gcc-c++  
+$ dnf -y install gcc-gfortran  
+$ dnf -y install unzip bzip2 time nfs-utils perl tcsh wget git m4 mlocate.x86_64 libX11-devel.x86_64 libXext-devel.x86_64 libXrender-devel.x86_64 fontconfig-devel.x86_64 curl-devel cmake cairo-devel pixman-devel bzip2-devel byacc flex libXmu-devel libXt-devel libXaw libXaw-devel  
+```
 
-=========================================================  
-
-<!-- more -->
-
-# 2. Directory Structure  
-##  2.1 Directory:  
-=========================================================  
+<h3> 2. Directory Structure  </h3>
+<h4>  2.1 Directory:  </h4>
+  
+```console
 Build_WRF       (Main Directory)  
 |--LIBRARIES    (Library Directory)  
 |--geos         (Geography Data and mount to /data/geos)  
 |--DATA         (Directory for Real-time Data)  
 |--src          (Directory for Source Code)  
+``` 
 
 **Notes**:  
 >1. You can create folder("Build_WRF") wherever you want as long as you are authorized.  
->2. In this tutotial, the folder("Build_WRF") was build in /root/.  
+>2. In this tutotial, the folder("Build_WRF") was build in /root/. 
 
-=========================================================
-
-##  2.2 tests:  
+<h4>  2.2 tests:  </h4>
 =========================================================  
 Make a new Directory as "tests" and download "Fortran_C_tests.tar" into it.
 Follow the online tutotial to finish it.(https://www2.mmm.ucar.edu/wrf/OnLineTutorial/compilation_tutorial.php)  
