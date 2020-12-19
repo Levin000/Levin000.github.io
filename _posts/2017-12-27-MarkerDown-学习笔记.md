@@ -2,10 +2,7 @@
 layout: post
 title: "MarkerDown-学习笔记"
 date: 2017-12-27
-updated: 2017-12-29
-categories: 富文本
 tags: Markdown
-image: 
 ---
 **题前篇:**        
 

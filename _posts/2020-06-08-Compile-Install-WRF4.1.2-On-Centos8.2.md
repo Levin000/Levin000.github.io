@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "Compile & Install WRF4.1.2 On CentOS 8.2"
+title: Compile & Install WRF4.1.2 On CentOS 8.2
 date: 2020-6-8
-updated: 2020-6-18
-categories:
-- 模型模拟
-tags:
-- 模式
-- region climate model
-- Linux
-- CentOS
-- Weather Research and Forcast Model
-- WRF 
-- gfortran
+tags: 地球系统模型模式
+published: true
 ---
 ![Weather Research and Forcast Model](/images/article/wrf/wrf_logo.jpg)
 
