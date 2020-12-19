@@ -1,5 +1,5 @@
 ---
-layout：post
+layout: post
 title: LaTeX | 为学术论文排版而生【公式篇】
 date: 2018-08-25 13:45:00
 author: iseex
