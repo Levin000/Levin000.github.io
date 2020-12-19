@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LaTeX | 为学术论文排版而生【入门篇】
-date: 2020-04-17 22:36:00
+date: 2019-04-17 22:36:00
 tags: 
 - LaTeX
 published: true
