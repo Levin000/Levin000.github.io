@@ -6,12 +6,12 @@ title: 青柠学术导航
 
 ### 软件/工具下载
 
-- [Windows平台](https://iseex.github.io/tools/)
-- [Mac平台](https://iseex.github.io/tools/)
+- [Windows平台](https://levin000.github.io/tools/)
+- [Mac平台](https://levin000.github.io/tools/)
 
 ### Sci-Hub最新可用网址
 
-[点击此处](https://iseex.github.io/scihub/)访问Sci-Hub最新可用网址。
+[点击此处](https://levin000.github.io/scihub/)访问Sci-Hub最新可用网址。
 
 ### 百度文库免费下载
 
@@ -21,7 +21,7 @@ title: 青柠学术导航
 
 ### 看外面的世界
 
-[点击此处](http://iseex.github.io/gifts/)看更大的世界，上网搞科学。
+[点击此处](http://levin000.github.io/gifts/)看更大的世界，上网搞科学。
 
 ### 其他学术导航
 
