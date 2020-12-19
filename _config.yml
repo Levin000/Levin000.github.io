@@ -14,7 +14,7 @@ enableToc: false
 # Comment
 comment:
     # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
-    disqus: leopard
+    # disqus: leopard
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
@@ -80,4 +80,6 @@ gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
 
-
+# Footer //like Science 2016-2020
+science: 2019
+#time: 
