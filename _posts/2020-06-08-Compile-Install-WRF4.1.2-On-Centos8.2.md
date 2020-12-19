@@ -717,7 +717,7 @@ If you see `wrfout_*`, it's coreect.
 - [Install WRF4 by Intel compiler On CentOS7.(2020)](https://www.youtube.com/watch?v=GlU-EtKAW90)  
 - [How to Install WRF (part 1/2)(2018)](https://www.youtube.com/watch?v=sTtLgzWh-yg&t=16s)  
 - [How to Install WRF (part 2/2)(2018)](https://www.youtube.com/watch?v=i3QF-DxXBcg&t=81s)
-- [WRF Model | Users Site](https://www2.mmm.ucar.edu/wrf/users/)  
+- [WRF Model Users Site](https://www2.mmm.ucar.edu/wrf/users/)  
 - [MeteoAdriatic YouTube](https://www.youtube.com/channel/UCqlGJ4CY6c863uVJ0URweKg/videos)
 
 <h3> Useful Libraries:</h3>
