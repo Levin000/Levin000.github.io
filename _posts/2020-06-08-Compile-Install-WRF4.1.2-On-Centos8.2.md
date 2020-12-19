@@ -2,6 +2,7 @@
 layout: post
 title: Compile & Install WRF4.1.2 On CentOS 8.2
 date: 2020-6-8
+author: Levin
 tags: 地球系统模型模式
 published: true
 ---
@@ -429,7 +430,7 @@ status = 2
 SUCCESS test 2 fortran + c + netcdf + mpi  
 ```
 
-<h3> Buinding WRF  </h3>
+<h3> Building WRF  </h3>
 ```bash
 wget https://github.com/wrf-model/WRF/archive/v4.1.2.tar.gz  
 mv v4.1.2.tar.gz WRFv4.1.2.tar.gz  

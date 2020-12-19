@@ -2,6 +2,7 @@
 layout: post
 title: LaTeX | 为学术论文排版而生【浮动体篇】
 date: 2018-08-25 15:19:00
+author: iseex
 tags: LaTeX
 ---
 
